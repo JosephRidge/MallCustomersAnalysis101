@@ -1,6 +1,6 @@
 # Introduction to Descriptive Statistics
 
-![Descriptive statistics infographic](images/descriptive-stats-infographic.png)
+![alt text](image.png)
 <!-- Update the path above to where the infographic lives in this repo -->
 
 ## What are descriptive statistics?
